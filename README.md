@@ -1,5 +1,5 @@
 Remote-unlock-native-ZFS
-Unlocking a native encrypted ZFS root partition remotely via Dropbear SSH server on Ubuntu
+Unlocking a native encrypted ZFS root partition remotely via Dropbear SSH server on Ubuntu (19.10, 20.04)
 
 Utility for unattended remote unlock of native ZFS encrypted root disk partition using SSH. 
 Requires dropbear SSH server which could be run from initial ramdisk.
